@@ -4,7 +4,7 @@ This repository contains the projects I have prepared for the programming studen
 <img src="https://github.com/aliemreoz/ta-projects/blob/master/Cafe%20Recommender/mp2.gif" width="486" height="303" />
 
 * ## [Pokedex](https://github.com/aliemreoz/ta-projects/tree/master/Pokedex)
-<img src=https://raw.githubusercontent.com/aliemreoz/ta-projects/master/Pokedex/Screenshot_1.png?token=AFU3S427CZ37FRWAE3W6SDK5FDEE4" width="486" height="290" />
+<img src="https://raw.githubusercontent.com/aliemreoz/ta-projects/master/Pokedex/Screenshot_1.png?token=AFU3S427CZ37FRWAE3W6SDK5FDEE4" width="486" height="290" />
 
 * ## [Protein Function Prediction Tool](https://github.com/aliemreoz/ta-projects/tree/master/Protein%20Function%20Prediction%20Tool)
 <img src="https://raw.githubusercontent.com/aliemreoz/ta-projects/master/Protein%20Function%20Prediction%20Tool/Screenshot_2.png?token=AFU3S46EXUGTVARLVTOZLJC5FDDCU" width="570" height="223" />
