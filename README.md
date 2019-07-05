@@ -8,3 +8,6 @@ This repository contains the projects I have prepared for the programming studen
 
 * ## [Protein Function Prediction Tool](https://github.com/aliemreoz/ta-projects/tree/master/Protein%20Function%20Prediction%20Tool)
 <img src="https://raw.githubusercontent.com/aliemreoz/ta-projects/master/Protein%20Function%20Prediction%20Tool/Screenshot_2.png?token=AFU3S46EXUGTVARLVTOZLJC5FDDCU" width="570" height="223" />
+
+* ## [Principal Investigator Estimator](https://github.com/aliemreoz/ta-projects/tree/master/Principal%20Investigator%20Estimator)
+<img src="https://raw.githubusercontent.com/aliemreoz/ta-projects/master/Principal%20Investigator%20Estimator/PIEstimator.gif?token=AFU3S44YDU43N6RUGU2XGOC5FDDXQ" width="486" height="210" />
