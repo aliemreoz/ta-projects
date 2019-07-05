@@ -1,3 +1,5 @@
+__author__ = "aliemre"
+
 from Tkinter import *
 import tkFileDialog
 from recommendations import *
