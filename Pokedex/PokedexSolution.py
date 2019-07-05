@@ -1,3 +1,5 @@
+__author__ = "aliemre"
+
 import pickle
 import time
 from Tkinter import *
